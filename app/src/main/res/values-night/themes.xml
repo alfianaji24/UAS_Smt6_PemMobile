@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.UAS_Smt6_Pemob" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#26C6DA</item>
+        <item name="colorPrimaryVariant">#80DEEA</item>
+        <item name="colorOnPrimary">#FAFAFA</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#80CBC4</item>
+        <item name="colorSecondaryVariant">#00796B</item>
+        <item name="colorOnSecondary">#212121</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

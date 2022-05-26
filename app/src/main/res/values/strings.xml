@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UAS_pemob</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="title_activity_register">Sign Up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="text_button_login">Masuk</string>
+    <string name="text_button_daftar">Daftar</string>
+    <string name="text_link_to_forget_passowrd">Forget Password ?</string>
+    <string name="text_link_to_register">Not Registered, Sign Up !</string>
+    <string name="text_link_to_login">Already Registered,Sign In !</string>
+    <string name="title_menu_2">Profil</string>
+    <string name="or">---------------------------- OR ----------------------------</string>
+    <string name="Login">Login</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="type_your_email">Type Your Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="default_web_client_id2" translatable="false">143673626408-gp2u7fl9v6o0kies33agg95d8vtjo5qt.apps.googleusercontent.com</string>
+    <string name="selamat_datang">SELAMAT DATANG</string>
+    <string name="you_re_loggin_as">You\'re loggIn as</string>
+    <string name="email">Email</string>
+</resources>
